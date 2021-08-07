@@ -225,3 +225,13 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
 ### deploy link:
 url: https://adham-portfolio.netlify.app/
+
+### Number and name of feature: 4featuer:1- add my name 2. prife about myself 3. edit header and foorer 4.edit portfolio page and landing page 
+
+Estimate of time needed to complete: 6houers
+
+Start time: 2pm
+
+Finish time: 7pm
+
+Actual time needed to complete: 5 houers
